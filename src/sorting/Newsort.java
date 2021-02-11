@@ -1,10 +1,9 @@
 package sorting;
 
-public class Bubblesort {
+public class Newsort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//gg
 
 	}
 
